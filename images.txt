@@ -27,6 +27,7 @@
 #anapsix/alpine-java:8_server-jre_unlimited
 #rabbitmq:3.13.3-management-alpine
 #nginx
-bitnami/zookeeper:3.8.0
-bitnami/kafka:3.0.0
-sheepkiller/kafka-manager:latest
+#bitnami/zookeeper:3.8.0
+bitnami/kafka:3.7.1
+provectuslabs/kafka-ui
+#sheepkiller/kafka-manager:latest
