@@ -32,3 +32,5 @@ bitnami/kafka:3.7.1
 provectuslabs/kafka-ui
 sheepkiller/kafka-manager:latest
 pixman/pixman
+apache/rocketmq:5.3.0
+apacherocketmq/rocketmq-dashboard:1.0.0
