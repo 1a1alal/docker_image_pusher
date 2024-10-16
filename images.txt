@@ -36,3 +36,4 @@ sheepkiller/kafka-manager:latest
 pixman/pixman
 apache/rocketmq:5.3.0
 apacherocketmq/rocketmq-dashboard:1.0.0
+frooodle/s-pdf
